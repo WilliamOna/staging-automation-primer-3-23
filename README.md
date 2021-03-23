@@ -32,12 +32,22 @@ The main focus of this 2 week training is to prepare you for Automation intervie
 
 The goal is to be comfortable talking about any of these topics in the context of an interview
 
-# Suggested project
-Create a full stack app that uses Java + whichever Java frameworks you would like with an Angular Frontend. The theme can be whatever you choose. It can be as simple or as complicated as you would like. For this project, the emphasis is more on the process you follow in constructing your application rather than what your application actually does. Doing the following will probably make you more successful in a future job interview:
+# Suggested projects
+
+## Basic Backend with Selenium Project
+This is just a project to get our feet wet and get used to some traditional testing concepts
 - Create a Kanban Board for your project
-- If you are working with a team, use Scrum
+- Use Scrum
+- Maintain Testing documents
+- Use TDD
+- create E2E tests with selenium
+
+## Spring Boot with Angular Frontend
+Create a full stack app that uses Java + Spring you would like with an Angular Frontend. The theme can be whatever you choose. It can be as simple or as complicated as you would like. For this project, the emphasis is more on the process you follow in constructing your application rather than what your application actually does. Doing the following will probably make you more successful in a future job interview:
+- Create a Kanban Board for your project
+- Use Scrum
 - Maintain Testing documents
 - Use TDD and BDD
 - Hit all of the levels of your testing pyramid
 
-Feel free to talk to me about your idea. It will likely be difficult to incorporate all of the different technologies into one coherent applicattion.
+Feel free to talk to me about your idea. It will likely be difficult to incorporate all of the different technologies into one coherent application.
