@@ -34,15 +34,17 @@ The goal is to be comfortable talking about any of these topics in the context o
 
 # Suggested projects
 
-## Basic Backend with Selenium Project
+## Basic Backend with Spring, Testing documents and TDD
 This is just a project to get our feet wet and get used to some traditional testing concepts
 - Create a Kanban Board for your project
 - Use Scrum
 - Maintain Testing documents
 - Use TDD
-- create E2E tests with selenium
+- get used to using JUnit and Mockito in the context of Spring Test
 
-## Spring Boot with Angular Frontend
+You can find the repo [here](https://github.com/WilliamOna/chicken-restaurant-app)
+
+## Spring Boot with Angular Frontend + Selenium + Cucumber
 Create a full stack app that uses Java + Spring you would like with an Angular Frontend. The theme can be whatever you choose. It can be as simple or as complicated as you would like. For this project, the emphasis is more on the process you follow in constructing your application rather than what your application actually does. Doing the following will probably make you more successful in a future job interview:
 - Create a Kanban Board for your project
 - Use Scrum
