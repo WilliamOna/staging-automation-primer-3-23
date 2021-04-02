@@ -42,14 +42,17 @@ This is just a project to get our feet wet and get used to some traditional test
 - Use TDD
 - get used to using JUnit and Mockito in the context of Spring Test
 
-You can find the repo [here](https://github.com/WilliamOna/chicken-restaurant-app)
+You can find the repo of the Spring Boot app we created using TDD [here](https://github.com/WilliamOna/chicken-restaurant-app)
 
-## Spring Boot with Angular Frontend + Selenium + Cucumber
-Create a full stack app that uses Java + Spring you would like with an Angular Frontend. The theme can be whatever you choose. It can be as simple or as complicated as you would like. For this project, the emphasis is more on the process you follow in constructing your application rather than what your application actually does. Doing the following will probably make you more successful in a future job interview:
+## Java application with Servlets + JUnit+  Selenium + Cucumber + HTML/CSS/JS
+Create a full stack app that uses the above technologies. The theme can be whatever you choose. It can be as simple or as complicated as you would like. For this project, the emphasis is more on the process you follow in constructing your application rather than what your application actually does. Doing the following will probably make you more successful in a future job interview:
 - Create a Kanban Board for your project
 - Use Scrum
-- Maintain Testing documents
+- Maintain Testing documents: give filling out the test case document a shot as well as the RTM
 - Use TDD and BDD
 - Hit all of the levels of your testing pyramid
 
-Feel free to talk to me about your idea. It will likely be difficult to incorporate all of the different technologies into one coherent application.
+You can find the link to the project we did together here: [PirateApp](https://github.com/WilliamOna/2wPirateServer2.1/tree/dev). Make sure that you are looking in the `dev` branch
+
+## TDD using Jasmine and Protractor in an Angular application.
+Create a front end with Angular. Create the app using TDD with Jasmine. Also create E2E tests using protractor. You can see the project we did together here: [angular-ui](https://github.com/WilliamOna/angular-ui)
