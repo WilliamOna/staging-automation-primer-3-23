@@ -55,4 +55,4 @@ Create a full stack app that uses the above technologies. The theme can be whate
 You can find the link to the project we did together here: [PirateApp](https://github.com/WilliamOna/2wPirateServer2.1/tree/dev). Make sure that you are looking in the `dev` branch
 
 ## TDD using Jasmine and Protractor in an Angular application.
-Create a front end with Angular. Create the app using TDD with Jasmine. Also create E2E tests using protractor. You can see the project we did together here: [angular-ui](https://github.com/WilliamOna/angular-ui)
+Create a front end with Angular. Create the app using TDD with Jasmine. Also create E2E tests using protractor. You can see the project we did together here: [angular-ui](https://github.com/WilliamOna/angular-ui/tree/06-testing). Make sure that you are on the 06-testing branch.
